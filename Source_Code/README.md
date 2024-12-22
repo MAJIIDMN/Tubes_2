@@ -6,3 +6,6 @@
   	'Source_Code\\barcodes.csv'
 ### menjadi
 	'barcodes.csv'
+>[!note]
+>### Catatan
+- sesuaikan path dengan workplace anda saat menjalankan program
