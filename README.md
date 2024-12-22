@@ -14,9 +14,9 @@ Jika anda tidak dapat mengistall Library OpenCV dan pyzbar, anda dapat menjalank
 ### File Library Simpleaudio berada pada folder Library
 anda juga bisa menginstall Library simpleaudio secara manual
 ## PIP
-	pip install simpleaudio opencv-python pyzbar 
+	pip install simpleaudio
 ## CONDA
-	conda install -c simpleaudio opencv-python pyzbar
+	conda install -c simpleaudio
 > [!TIP]
 >## Tambahan
 untuk menghentikan proses microwave saat sedang berjalan(memasak) ada dapat menggunakan keyboard interrupt (CTRL+C)
