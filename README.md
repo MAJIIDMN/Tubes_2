@@ -19,6 +19,7 @@ anda juga bisa menginstall Library simpleaudio secara manual
 	conda install -c simpleaudio
 > [!TIP]
 >## Tambahan
-untuk menghentikan proses microwave saat sedang berjalan(memasak) ada dapat menggunakan keyboard interrupt (CTRL+C)
+- untuk menghentikan proses microwave saat sedang berjalan(memasak) ada dapat menggunakan keyboard interrupt (CTRL+C)
+- anda dapat mencoba fitur Scan Barcode dengan beberapa barcode yang telah disediakan pada folder (barcode)
 > [!NOTE]
 >### Fitur lainnya telah dijelaskan dalam file program
