@@ -6,6 +6,11 @@
   	'Source_Code\\barcodes.csv'
 ### menjadi
 	'barcodes.csv'
+- umtuk mengatur jeda countdown microwave saat berjalan, anda bisa Menganti code pada baris ke 798.
+### untuk jeda countdown 10 ms (0.01 detik)
+     time.sleep(0.01)
+### untuk jeda countdown 1s (1 detik)
+     time.sleep(1)
 >[!note]
 >### Catatan
 - sesuaikan path dengan workplace anda saat menjalankan program
